@@ -7,7 +7,7 @@
 _host="github.com"
 _project=nemomobile
 _basename=quickcontrols-nemo
-_branch=master
+_branch=fix_import
 
 _gitname=qt$_basename
 pkgname=qt5-$_basename-git
